@@ -6,7 +6,9 @@ Após esse comando você pode especificar que tipo de dados sua tabela suportar�
 Exemplo de dados:
 
 VARCHAR: Conjunto de caracteres
+
 INT: Números inteiros
+
 DATE: Datas( seguindo o padrão americano.)
 
 ![image](https://github.com/DaviFelipe00/SQLServer/blob/master/BancoDeDados_SQL.png?raw=true)
